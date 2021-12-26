@@ -25,7 +25,7 @@ Software engineer with focus on machine learning engineering, also passionate ab
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
 
-
+---
 ### :chart_with_upwards_trend: GitHub Stats
 
 <div>
