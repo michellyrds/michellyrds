@@ -29,8 +29,8 @@ Software engineer with focus on machine learning engineering, also passionate ab
 ### :chart_with_upwards_trend: GitHub Stats
 
 <div>
-  <img height="200rem" src="https://github-readme-stats.vercel.app/api?username=michellyrds&count_private=true&show_icons=true&theme=dracula&hide_border=true"/>
-  <img height="200rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michellyrds&layout=compact&theme=dracula&hide=jupyter%20notebook&hide_border=true"/>
+  <img height="190rem" src="https://github-readme-stats.vercel.app/api?username=michellyrds&count_private=true&show_icons=true&theme=dracula&hide_border=true"/>
+  <img height="190rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michellyrds&layout=compact&theme=dracula&hide=jupyter%20notebook&hide_border=true"/>
 </div>
 
 
