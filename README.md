@@ -10,7 +10,6 @@
 
 Software engineer with focus on machine learning engineering, also passionate about data science. 
 
-<!-- [![Michelly's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=michellyrds)](https://github.com/anuraghazra/github-readme-stats) -->
 ### :hammer_and_wrench: Technologies & tools that I usually work with
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat-square&logo=django&logoColor=white)
@@ -20,7 +19,7 @@ Software engineer with focus on machine learning engineering, also passionate ab
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat-square&logo=google-cloud&logoColor=white)
 ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat-square&logo=Apache%20Airflow&logoColor=white)
 
-### :wrench: Other techonologies
+### :wrench: Other technologies
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white)
@@ -28,8 +27,15 @@ Software engineer with focus on machine learning engineering, also passionate ab
 
 
 ### :chart_with_upwards_trend: GitHub Stats
-[![Michelly's GitHub stats](https://github-readme-stats.vercel.app/api?username=michellyrds&count_private=true&show_icons=true&theme=dracula&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michellyrds&layout=compact&theme=dracula&hide=jupyter%20notebook&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+<div>
+  <img height="200rem" src="https://github-readme-stats.vercel.app/api?username=michellyrds&count_private=true&show_icons=true&theme=dracula&hide_border=true"/>
+  <img height="200rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michellyrds&layout=compact&theme=dracula&hide=jupyter%20notebook&hide_border=true"/>
+</div>
+
+
+<!-- ![Michelly's GitHub stats](https://github-readme-stats.vercel.app/api?username=michellyrds&count_private=true&show_icons=true&theme=dracula&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michellyrds&layout=compact&theme=dracula&hide=jupyter%20notebook&hide_border=true) -->
 
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=michellyrds&repo=mlp)](https://github.com/anuraghazra/github-readme-stats) -->
 
