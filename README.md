@@ -1,11 +1,7 @@
 <p>
   <h1 align="center"><b>Hi, I'm Michelly! :woman_technologist: </h1>
 </p>
-<p align="center">
-<a href="https://www.linkedin.com/in/michellyrds/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-</p>
 <br />
-
 Software engineer with focus on machine learning engineering, also passionate about data science. 
 
 ### :hammer_and_wrench: Technologies & tools that I usually work with
