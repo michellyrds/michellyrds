@@ -1,7 +1,6 @@
 <p>
   <h1 align="center"><b>Hi, I'm Michelly! :woman_technologist: </h1>
 </p>
-<br />
 Software engineer with focus on machine learning engineering, also passionate about data science. 
 
 ### :hammer_and_wrench: Technologies & tools that I usually work with
